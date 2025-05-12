@@ -1,6 +1,6 @@
 # RPi Pico software for reading and recording sleep positions
 # from a MPU6050 6 axis IMU
-# We are not interested in gyroscope date, only the gravity vector,
+# We are not interested in gyroscope data, only the gravity vector,
 # as it is assumed that the subject is not accelerating during the reading, apart from
 # gravitational acceleration.
 # This software will not work in a zero G environment :)
